@@ -1,0 +1,2 @@
+# PXLIZATOR
+simple Java pixelizator 
