@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:10:22:43 +0200] "GET /pixelizator_war HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:10:22:43 +0200] "GET /pixelizator_war/ HTTP/1.1" 404 983 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:10:22:58 +0200] "GET /pixelizator_war/Govnocoder228 HTTP/1.1" 200 4017 http-bio-8080-exec-4 1235
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:10:22:58 +0200] "GET /pixelizator_war/load.js HTTP/1.1" 200 4061 http-bio-8080-exec-5 13
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:10:22:58 +0200] "GET /pixelizator_war/style.css HTTP/1.1" 200 1642 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:10:23:06 +0200] "POST /pixelizator_war HTTP/1.1" 302 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:10:23:06 +0200] "GET /pixelizator_war/ HTTP/1.1" 404 983 http-bio-8080-exec-8 1
